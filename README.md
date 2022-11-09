@@ -1,4 +1,4 @@
-# crackITup
+# Let's Get Quizzical
 A Quiz Conducting Website 
 
 ## [Link to the website](https://crackitup.herokuapp.com)
