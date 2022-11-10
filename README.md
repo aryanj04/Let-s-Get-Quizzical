@@ -1,8 +1,6 @@
 # Let's Get Quizzical
 A Quiz Conducting Website 
 
-## [Link to the website](https://crackitup.herokuapp.com)
-
 ## Tech Stack Used
 - MongoDb
 - Express
